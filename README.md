@@ -1,10 +1,10 @@
 # test
 ## test
 
--apple
--orange
- -orange2
- -orange3
+- apple
+- orange
+ - orange2
+ - orange3
  
 *em*
 **strong**
